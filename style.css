@@ -17,7 +17,7 @@
     font-size: 17px;
 }
 a.left{
-      float: left;
+    float: left;
 }
 .header a:hover {
     background-color: #a2baee;
@@ -32,6 +32,14 @@ a.left{
     margin-right: 16px;
     font-size: 17px;
 }
+.fa-solid{
+    float: left;
+    position:relative;
+    margin-right: 5px;
+    left:15px;
+    top:15px;
+}
+
 .slideshow-container {
     padding-top: 2vh;
     max-width: 1000px;
@@ -121,8 +129,7 @@ a.left{
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 14px;
-    
+    font-size: 14px;  
 }
 .card button:hover {
     background-color: #a2baee;
@@ -134,3 +141,5 @@ a.left{
     align-items: center;
     justify-items: center;
 }
+
+  
