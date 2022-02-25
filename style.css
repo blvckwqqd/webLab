@@ -153,3 +153,10 @@ a.left{
     margin-left: 30px;
     margin-right: 15px;
 }
+#viewDiv {
+    padding: 0;
+    margin: 15px auto;
+    height: 700px;
+    width: 70%;
+    border: 1px solid black;
+}
